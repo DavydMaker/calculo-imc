@@ -1,2 +1,2 @@
 # Calculo IMC
-Projeto com JFrame para cálculo do IMC.
+Projeto com SWING para cálculo do IMC.
